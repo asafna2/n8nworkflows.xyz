@@ -37,6 +37,33 @@ Each workflow is isolated in its own folder to facilitate navigation, versioning
 
 ---
 
+## 🔗 Useful Links
+
+- 🌐 [n8nworkflows.xyz website](https://n8nworkflows.xyz)
+- 📖 [Official n8n Documentation](https://docs.n8n.io)
+- 💬 [n8n Community](https://community.n8n.io)
+- 🐙 [n8n on GitHub](https://github.com/n8n-io/n8n)
+
+---
+
+## 📝 License
+
+This repository archives public workflows from [n8n.io/workflows](https://n8n.io/workflows). Each workflow retains its original license. Refer to individual metadata for more information.
+
+The archiving code and repository structure are licensed under [MIT](LICENSE).
+
+---
+
+## ⚠️ Disclaimer
+
+This project is **independent** and not officially affiliated with n8n. It is a personal initiative aimed at facilitating access to and preservation of public n8n workflows.
+
+---
+
+**Made with ❤️ for the n8n community**
+
+---
+
 ## 📄 Archived Workflow Format
 
 Each workflow folder contains **exactly 4 files**:
@@ -6033,30 +6060,6 @@ Each workflow folder contains **exactly 4 files**:
 - [🧹 Archive (delete) duplicate items from a Notion database-3825](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%F0%9F%A7%B9%20Archive%20(delete)%20duplicate%20items%20from%20a%20Notion%20database-3825)
 - [🧾 Automated Invoice Processing with Mistral OCR + GPT-4o-mini-4331](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%F0%9F%A7%BE%20Automated%20Invoice%20Processing%20with%20Mistral%20OCR%20%2B%20GPT-4o-mini-4331)
 
----
 
-## 🔗 Useful Links
 
-- 🌐 [n8nworkflows.xyz website](https://n8nworkflows.xyz)
-- 📖 [Official n8n Documentation](https://docs.n8n.io)
-- 💬 [n8n Community](https://community.n8n.io)
-- 🐙 [n8n on GitHub](https://github.com/n8n-io/n8n)
-
----
-
-## 📝 License
-
-This repository archives public workflows from [n8n.io/workflows](https://n8n.io/workflows). Each workflow retains its original license. Refer to individual metadata for more information.
-
-The archiving code and repository structure are licensed under [MIT](LICENSE).
-
----
-
-## ⚠️ Disclaimer
-
-This project is **independent** and not officially affiliated with n8n. It is a personal initiative aimed at facilitating access to and preservation of public n8n workflows.
-
----
-
-**Made with ❤️ for the n8n community**
 
